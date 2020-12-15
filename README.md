@@ -6,4 +6,3 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: linkdin-
 - 😄 Pronouns:He/His
--->
