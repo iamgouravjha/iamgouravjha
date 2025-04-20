@@ -1,6 +1,6 @@
 ### Hi, I'm Gourav jha! 👋
 
-- 🔭 I’m currently working as a specialist in Bristlecone. 
+- 🔭 I’m currently working as a Data Analyst at Bristlecone. 
 - 🌱 I’m currently learning Data Science.
 - 🤔 I’m looking for help with machine learning.
 - 💬 Ask me about any tech-related stuff.
