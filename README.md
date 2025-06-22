@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a Data Analyst at Bristlecone. 
 - 🌱 I’m currently learning Data Engineering.
-- 🤔 I’m looking for help with machine learning.
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: [Linkdin- gourav](https://www.linkedin.com/in/gouravjha/)
 - 😄 Pronouns: He/His
